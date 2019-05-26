@@ -1,0 +1,48 @@
+body {
+	background: url(https://i.ytimg.com/vi/BP0xR57FTcc/maxresdefault.jpg) no-repeat fixed;
+	opacity: 5px red;
+	-webkit-background-size:cover;
+	margin: 0;
+	padding: 0;
+}
+.prin {
+	background: url("../img/bg.jpg") no-repeat fixed;
+	-webkit-background-size:cover;
+	margin: 0;
+	padding: 0;
+}
+.white {
+	color:white;
+	text-align: center;
+}
+h1 {
+	font-size: 80px;
+}
+.uno {
+	border: white solid 2px;
+	width: 700px;
+	display: block;
+	margin: auto;
+}
+.gris {
+	color:silver;
+	background: white;
+}
+.in {
+	color: black;
+	text-align: center;
+	margin:0 !important;
+	font-family:Forte;
+}
+.sen {
+	text-align: center;
+	width: 900px;
+	display: block;
+	margin: auto;
+}
+button {
+	opacity: 9px;
+}
+.carta {
+	font-family: forte;
+}
